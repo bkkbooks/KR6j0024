@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂一切如來真實攝大乘現證大教王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0865.xml
+    old_id: T18n0865
+hash: sha256:aad05f88c8246d112bf33ac135e825dcc0054ab99dbfa32e5c27adf2def0da9d

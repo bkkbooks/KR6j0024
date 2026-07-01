@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6j0024/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0024/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂一切如來真實攝大乘現證大教王經
+  identifiers:
+    krp: KR6j0024
+    cbeta: T18n0865
+    cbeta_old_id: T18n0865
+    authorityid: CA0001640
+    json_key: T0865
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0865.xml
+    old_id: T18n0865
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0024_000-T.yaml, hash: 'sha256:aad05f88c8246d112bf33ac135e825dcc0054ab99dbfa32e5c27adf2def0da9d'}
+  - {seq: 1, filename: KR6j0024_001-T.yaml, hash: 'sha256:0c55e10dd0f44613fa6c6ec1daefb3a3b6c4579af717e682b36831beaa72e8f3'}
+  - {seq: 2, filename: KR6j0024_002-T.yaml, hash: 'sha256:aa026845d16f49be00e2a2548bb79b0cb62c308788ff8a50686cf2824c0f1340'}
+  - {seq: 3, filename: KR6j0024_003-T.yaml, hash: 'sha256:88a99a10c9400fd97ad7c66496d083b08982571091cd92b3ec4bdb144e2b7af5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0024_000-T.markers.yaml, hash: 'sha256:117e96fe0d167fbc6f5dc9d80dd57963cf58ab5c313f8e9e01e73e1e1bdedd39'}
+  - {seq: 1, role: markers, filename: assets/KR6j0024_001-T.markers.yaml, hash: 'sha256:0fdf8bc5cc64a993bb0958248c0aa64be819ba55357b9096c64eebaf0e131c4a'}
+  - {seq: 2, role: markers, filename: assets/KR6j0024_002-T.markers.yaml, hash: 'sha256:78ed688d64d08d33ef7676d8952e28f7d2e4cbba04022b6f6b9b87e7e443402d'}
+  - {seq: 3, role: markers, filename: assets/KR6j0024_003-T.markers.yaml, hash: 'sha256:543bb7ebf16cd5cca1ebae6f3791a4f9aa20cb29213cd373f3b8e08611bcb1c9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0024_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6805
+  label: '金剛頂一切如來真實攝大乘
+
+    現證大教王經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0024_T_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 金剛界大曼荼羅廣大儀軌品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0024_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5772
+  label: '金剛頂一切如來真實攝大乘現
+
+    證大教王經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0024_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5912
+  label: '金剛頂一切如來真實攝大乘現
+
+    證大教王經卷下'
+  type: juan
+  level: 1
+hash: sha256:a5c53e154648d85ecbb49a96cec398ad9dac3b4bc4b3635174aa3e6f855eea6d

@@ -43,13 +43,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0024_000.yaml, hash: 'sha256:aad05f88c8246d112bf33ac135e825dcc0054ab99dbfa32e5c27adf2def0da9d'}
-  - {seq: 1, filename: KR6j0024_001.yaml, hash: 'sha256:e25b44303e72bfcb1a8816ac9258c6969255a38b4a7bc88e81c52d327c749c68'}
-  - {seq: 2, filename: KR6j0024_002.yaml, hash: 'sha256:dc83a5e98d6d8e26fb34ac1e886a2b6a00b086fd49c37a43b6e8e471467d0e50'}
-  - {seq: 3, filename: KR6j0024_003.yaml, hash: 'sha256:0dc73c9543bb1997ab7122aaaf31a70dd3c685819b7eba5a3b7de2779a1f0218'}
+  - {seq: 1, filename: KR6j0024_001.yaml, hash: 'sha256:0c55e10dd0f44613fa6c6ec1daefb3a3b6c4579af717e682b36831beaa72e8f3'}
+  - {seq: 2, filename: KR6j0024_002.yaml, hash: 'sha256:aa026845d16f49be00e2a2548bb79b0cb62c308788ff8a50686cf2824c0f1340'}
+  - {seq: 3, filename: KR6j0024_003.yaml, hash: 'sha256:88a99a10c9400fd97ad7c66496d083b08982571091cd92b3ec4bdb144e2b7af5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0024_001.markers.yaml, hash: 'sha256:e421ea1328da983b842a2a3d1ec76b4e5b3251ddc5b871dcf177c4b448b378fb'}
-  - {seq: 2, role: markers, filename: assets/KR6j0024_002.markers.yaml, hash: 'sha256:4b484bdf226de2a0841be38a6b44ff214096250ce56b46c1e7e6126fc1b3f861'}
-  - {seq: 3, role: markers, filename: assets/KR6j0024_003.markers.yaml, hash: 'sha256:d2739e7959cd10a1bd137bd2aafa8632b3cbf7e7fdc7aa738a9b942da238378e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0024_000.markers.yaml, hash: 'sha256:0de7c23f0e79fa084ff2b2a7a0316dc52f9bc9b0543c98e0d4d1b22cff0e1cbc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0024_001.markers.yaml, hash: 'sha256:bafa2169b39140294b1157fefdb122f54a9638e2d8b214c6b4a31227deb818eb'}
+  - {seq: 2, role: markers, filename: assets/KR6j0024_002.markers.yaml, hash: 'sha256:4ac89556e63ee078da9abcf280bc50b40a0a37788d46342b4e5e4affd3474abb'}
+  - {seq: 3, role: markers, filename: assets/KR6j0024_003.markers.yaml, hash: 'sha256:73b6c4506eab438f404a78d22321876f3c622a29c5c483ba5d64da4f71b4807d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -97,7 +98,4 @@ table_of_contents:
     證大教王經卷下'
   type: juan
   level: 1
-hash: sha256:db0e4e4d697dda7a04b42be20519e6abb2d0429e9fa77fc60f5125231259be99
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f22b4fe90a8763e151a37718928034bdce27b26a2f2e5962df3a8a6140767b15
